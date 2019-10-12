@@ -1,6 +1,8 @@
 # ratelmt
 Rate limiter http middleware
 
+[![GoDoc](https://godoc.org/github.com/karlpokus/ratelmt?status.svg)](https://godoc.org/github.com/karlpokus/ratelmt)
+
 # install
 ```bash
 $ go get github.com/karlpokus/ratelmt
